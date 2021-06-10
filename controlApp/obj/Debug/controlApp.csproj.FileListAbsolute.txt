@@ -1,9 +1,0 @@
-D:\Programacion\VS-2017\controlApp\controlApp\bin\Debug\controlApp.exe
-D:\Programacion\VS-2017\controlApp\controlApp\bin\Debug\controlApp.pdb
-D:\Programacion\VS-2017\controlApp\controlApp\obj\Debug\controlApp.csprojAssemblyReference.cache
-D:\Programacion\VS-2017\controlApp\controlApp\obj\Debug\controlApp.Presentacion.Usuarios.resources
-D:\Programacion\VS-2017\controlApp\controlApp\obj\Debug\controlApp.Properties.Resources.resources
-D:\Programacion\VS-2017\controlApp\controlApp\obj\Debug\controlApp.csproj.GenerateResource.cache
-D:\Programacion\VS-2017\controlApp\controlApp\obj\Debug\controlApp.csproj.CoreCompileInputs.cache
-D:\Programacion\VS-2017\controlApp\controlApp\obj\Debug\controlApp.exe
-D:\Programacion\VS-2017\controlApp\controlApp\obj\Debug\controlApp.pdb
