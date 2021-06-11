@@ -18,22 +18,22 @@ _Breve aplicación de escritorio que consiste en agregar usuario, contraseña e 
 
   
 Pantalla de la aplicación:<p>
-<img src="https://raw.githubusercontent.com/edwsilme/ingreso_app/main/img/Plantilla.JPG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-ingreso_app/Plantilla.JPG" width="500">
 
 :arrow_right: gregar:<p>
-<img src="https://raw.githubusercontent.com/edwsilme/ingreso_app/main/img/Agregar0.JPG" width="500">
-<img src="https://raw.githubusercontent.com/edwsilme/ingreso_app/main/img/Agregar1.JPG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-ingreso_app/Agregar0.JPG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-ingreso_app/Agregar1.JPG" width="500">
 
 :floppy_disk: Guardar:<br>
-<img src="https://raw.githubusercontent.com/edwsilme/ingreso_app/main/img/Guardar.JPG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-ingreso_app/Guardar.JPG" width="500">
 
 :arrow_right: Editar:<br>
-<img src="https://raw.githubusercontent.com/edwsilme/ingreso_app/main/img/Editar.JPG" width="500">
-<img src="https://raw.githubusercontent.com/edwsilme/ingreso_app/main/img/Editar1.JPG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-ingreso_app/Editar.JPG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-ingreso_app/Editar1.JPG" width="500">
   
 :x: Eliminar:<br>
-<img src="https://raw.githubusercontent.com/edwsilme/ingreso_app/main/img/Eliminar1.JPG" width="500">
-<img src="https://raw.githubusercontent.com/edwsilme/ingreso_app/main/img/Eliminar2.JPG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-ingreso_app/Eliminar1.JPG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-ingreso_app/Eliminar2.JPG" width="500">
 
 ***
 
@@ -68,7 +68,7 @@ $ npm start
 ... El script de la base de datos se encuentra almacenado en la carpeta script. :sparkles:
  
  ... Modificar en el código:<p>
- <img src="https://raw.githubusercontent.com/edwsilme/ingreso_app/main/img/class.JPG" width="300"><p>
+ <img src="https://github.com/edwsilme/raw/blob/main/img-ingreso_app/class.JPG" width="380"><p>
  dentro de la clase conexionMaestra, source ='Nombre_del_servidor" y Initial Catalog ='Nombre_de_la_Tabla'
   
  
